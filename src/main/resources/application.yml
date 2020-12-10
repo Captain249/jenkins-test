@@ -1,0 +1,8 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /jenkins-test/
+    encoding:
+      enabled: true
+      force: true
+      charset: utf-8
